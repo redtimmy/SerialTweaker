@@ -23,4 +23,5 @@ OPTIONS:
 For more information about how to use the tool, please see [this blog post](https://www.redtimmy.com/web-application-hacking/interactive-modification-of-java-serialized-objects-with-serialtweaker).
 
 <b>Dependencies</b>
+
 A local repository of jar files is required in ~/.serially/jars. It can be built and indexed with the JavaClassDB.py tool from the [EnumJavaLibs](https://github.com/redtimmy/EnumJavaLibs) project.
