@@ -5,7 +5,7 @@ SerialTweaker: Interactive modification of Java Serialized Objects
 
 SerialTweaker can be used to load a serialized object, change its contents, and reserialize it to a new serialized object with modified fields inside.
 
-<b> WARNING!</b> This tool will deserialize input that it is given. It is therefore vulnerable to deserialization attacks by definition. Please make sure the input you use is not malicious, and/or usethe tool in an isolated sandboxed environment.
+<b> WARNING!</b> This tool will deserialize input that it is given. It is therefore vulnerable to deserialization attacks by definition. Please make sure the input you use is not malicious, and/or use the tool in an isolated sandboxed environment.
 <pre>
 -----------------
 Serially - v1.1
